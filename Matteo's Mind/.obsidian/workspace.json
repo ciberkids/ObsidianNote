@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solution for Ubisys S2.md",
+                "file": "ZigBee/ZigBee2MQTT/Ubisys/Solution for Ubisys S2.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,6 +49,40 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ZigBee/ZigBee2MQTT/Ubisys/Solution for Ubisys S2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2058696d653d0ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZigBee/ZigBee2MQTT/Ubisys/Solution for ubisys C4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "147b50268a370c1c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ZigBee/ZigBee2MQTT/Ubisys/Pasted image 20240710003128.png"
+              }
+            }
+          },
+          {
+            "id": "af4b941e312ceeae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Node REd/Mod Bus/Mod Bus writing.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "ce0cfed0bf51816e",
@@ -66,8 +100,12 @@
             "id": "fccd31ee7576eb16",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -136,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node REd/Mod Bus/Mod Bus writing.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node REd/Mod Bus/Mod Bus writing.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node REd/Mod Bus/Mod Bus writing.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -197,21 +235,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12c5184b5b37fb44",
+  "active": "fccd31ee7576eb16",
   "lastOpenFiles": [
-    "Node REd/Untitled.md",
+    "create a link.md",
+    "Welcome.md",
     "Node REd/Mod Bus/Mod Bus writing.md",
+    "Node REd/Untitled.md",
+    "ZigBee/ZigBee2MQTT/Ubisys/Pasted image 20240710003128.png",
+    "ZigBee/ZigBee2MQTT/Ubisys/Pasted image 20240806085309.png",
+    "ZigBee/ZigBee2MQTT/Ubisys/Solution for ubisys C4.md",
+    "ZigBee/ZigBee2MQTT/Ubisys/Solution for Ubisys S2.md",
+    "ZigBee/ZigBee2MQTT/Untitled.md",
+    "ZigBee/ZigBee2MQTT/Ubisys",
+    "ZigBee/ZigBee2MQTT",
+    "ZigBee",
     "Arm/Arm Board.md",
-    "Pasted image 20240806085309.png",
     "tmux/Share Session with different users.md",
     "Arm",
     "tmux",
     "Node REd/Mod Bus",
-    "Welcome.md",
     "Node REd",
-    "Solution for Ubisys S2.md",
-    "Solution for ubisys C4.md",
-    "Pasted image 20240710003128.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
