@@ -1,9 +1,10 @@
-## ROCK 5 ITX
+
 https://radxa.com/products/rock5/5itx/
 
-### Aliexpress
+## Aliexpress
 https://www.aliexpress.com/item/1005006866030181.html
-### Specs
+
+## Specs
 #### Images
 ![[Pasted image 20240806085309.png]]
 

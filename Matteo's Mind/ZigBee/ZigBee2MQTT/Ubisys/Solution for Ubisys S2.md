@@ -27,11 +27,11 @@ zigbee2mqtt/Kitchen Table Remote/set
         "input_action_templates": [
             {
                 "//_comment": "will automatically use inputs 0 and 1 and endpoint 2 (first outbound endpoint on a D1)",
-                "type": "toggle_switch"
+                "type": "dimmer_single"
             },
              {
                 "//_comment": "will automatically use inputs 0 and 1 and endpoint 2 (first outbound endpoint on a D1)",
-                "type": "toggle_switch"
+                "type": "dimmer_single"
             }
         ]
     }

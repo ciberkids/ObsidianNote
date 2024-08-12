@@ -61,7 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node Red/Mod Bus/Mod Bus writing.md",
+                "file": "Arm/ROCK 5 ITX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2782a2635d633c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plex/Podman and transcoding/Plex podman and nvidia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c0c8649d0063087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Containers/Interesting pages for containers and podman.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,9 +102,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50d405d54f96a022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Generic command/Date Bash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2aedb6e525c23b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Generic command/Dmidecode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -146,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node Red/Mod Bus/Mod Bus writing.md",
+                "file": "Linux/Generic command/Dmidecode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node Red/Mod Bus/Mod Bus writing.md",
+                "file": "Linux/Generic command/Dmidecode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node Red/Mod Bus/Mod Bus writing.md"
+                "file": "Linux/Generic command/Dmidecode.md"
               }
             }
           }
@@ -207,35 +255,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b7498abb96a0e81",
+  "active": "d2aedb6e525c23b1",
   "lastOpenFiles": [
-    "tmux/Share Session with different users.md",
-    "ZigBee/ZigBee2MQTT/Ubisys/images/Pasted image 20240710003128.png",
-    "ZigBee/ZigBee2MQTT/Ubisys/images",
+    "Linux/Generic command/Date Bash.md",
+    "Linux/Generic command/Dmidecode.md",
+    "ZigBee/ZigBee2MQTT/Ubisys/Solution for Ubisys S2.md",
+    "ZigBee/ZigBee2MQTT/Ubisys/Solution for ubisys C4.md",
+    "ZigBee/DIY Devices/seeed studio xiao esp32c6.md",
+    "ZigBee/DIY Devices/Frient.md",
+    "ZigBee/DIY Devices/Konnected.md",
+    "ZigBee/DIY Devices/diyruz.md",
+    "ZigBee/DIY Devices",
+    "Containers/Interesting pages for containers and podman.md",
+    "Linux/Generic command",
+    "Linux",
+    "Containers/images/Pasted image 20240809092936.png",
+    "Containers/images",
+    "Containers/images/Pasted image 20240809092848.png",
+    "Containers/Podman/Podman docs page.md",
+    "Plex/plugins/Kitana.md",
+    "Plex/plugins",
+    "Plex/Podman and transcoding/Plex podman and nvidia.md",
+    "Containers/Podman",
     "Welcome.md",
-    "Note Taking apps/Note taking apps.md",
+    "Containers/Podman tricks.md",
+    "Plex/Podman and transcoding/nvidia commands for podman.md",
+    "Arm/Mars 400Pro Ceph.md",
+    "Containers",
+    "Arm/images/Pasted image 20240806132536.png",
+    "Arm/HoneyComb LX2.md",
+    "Arm/ROCK 5 ITX.md",
+    "Arm/images/Pasted image 20240806132227.png",
+    "Arm/images/Pasted image 20240806085309.png",
+    "ZigBee/ZigBee2MQTT/Ubisys/images/Pasted image 20240710003128.png",
+    "Arm/images",
     "Node Red/Mod Bus/Mod Bus writing.md",
-    "Arm/Arm Board.md",
+    "Plex/Podman and transcoding",
+    "Plex",
+    "tmux/Share Session with different users.md",
+    "Note Taking apps/Note taking apps.md",
     "Arduino and DYI/Tools/Online code IDE.md",
-    "Arduino and DYI/Digispark attiny85/images",
-    "Untitled.md",
     "Arduino and DYI/Digispark attiny85/Troubleshooting.md",
     "Arduino and DYI/Digispark attiny85/images/Pasted image 20240806100110.png",
     "Arduino and DYI/Digispark attiny85/Code example Blick led.md",
-    "Arduino and DYI/Tools",
-    "Note Taking apps",
-    "Arduino and DYI/Digispark attiny85",
-    "Arduino and DYI",
-    "ZigBee/ZigBee2MQTT/Ubisys/Solution for Ubisys S2.md",
-    "ZigBee/ZigBee2MQTT/Ubisys/Solution for ubisys C4.md",
     "create a link.md",
     "Node REd/Untitled.md",
-    "ZigBee/ZigBee2MQTT/Ubisys/images/Pasted image 20240806085309.png",
-    "ZigBee/ZigBee2MQTT/Untitled.md",
-    "ZigBee/ZigBee2MQTT/Ubisys",
-    "ZigBee/ZigBee2MQTT",
-    "ZigBee",
-    "Arm",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
