@@ -1,3 +1,5 @@
+When the kernel is updated most likely you need to do this.
+
 this generates the definition for podman
 ```bash
 sudo nvidia-ctk cdi generate --output=/etc/cdi/nvidia.yaml

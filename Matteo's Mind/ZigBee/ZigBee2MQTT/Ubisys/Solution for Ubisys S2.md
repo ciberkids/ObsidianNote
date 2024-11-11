@@ -1,5 +1,5 @@
 
-To unbind the releay from the input the cluster are the 3 and 4, but it possible to do it via interfance in zigbee2mqtt
+To unbind the relay from the input the cluster are the 3 and 4, but it possible to do it via interface in zigbee2mqtt
 
 ![[Pasted image 20240710003128.png]]
 ```
@@ -20,7 +20,7 @@ zigbee2mqtt/bridge/request/device/bind
 
 set toggle switch
 ```
-zigbee2mqtt/Kitchen Table Remote/set
+zigbee2mqtt/Devin Room Remote/set
 
 {
     "configure_device_setup": {
@@ -44,7 +44,7 @@ zigbee2mqtt/Kitchen Table Remote/set
 to set up the power on behaviour
 
 ```
-zigbee2mqtt/Kitchen Table Remote/set
+zigbee2mqtt/Devin Room Remote/set
 {"power_on_behavior_l1": "on"}
 
 ```

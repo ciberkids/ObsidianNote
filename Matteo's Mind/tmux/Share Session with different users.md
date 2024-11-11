@@ -11,7 +11,8 @@ $  tmux -S <path_to_a_location_socket> new -s <session_name>
 #### In my case:
 
 ```bash
- tmux -S /tmp/stefano new -s stefano_session
+ tmux -S /tmp/s
+ 
 ```
 
 ### In addition once it is started:
