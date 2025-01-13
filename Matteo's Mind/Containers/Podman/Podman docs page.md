@@ -143,8 +143,10 @@ For example, instead of `EnvironmentFile=%n/env` use `EnvironmentFile=./%n/en
 After placing the unit file in one of the unit search paths (mentioned above), you can start it with `systemctl start {--user}`. If it fails with “Failed to start example.service: Unit example.service not found.”, then it is possible that you used incorrect syntax or you used an option from a newer version of Podman Quadlet and the generator failed to create a service file.
 
 View the generated files and/or error messages with:
-
+```
 /usr/lib/systemd/system-generators/podman-system-generator {--user} --dryrun
+```
+
 
 ### Debugging a limited set of unit files[](https://docs.podman.io/en/latest/markdown/podman-systemd.unit.5.html#debugging-a-limited-set-of-unit-files "Link to this heading")
 

@@ -1,0 +1,1 @@
+https://community.home-assistant.io/t/device-zigbee-homemade/674478

@@ -14,3 +14,8 @@ SeccompProfile=unconfined
 ``` bash
 PodmanArgs=--privileged
 ```
+
+3) to test if the quadlets are working run this command
+```bash
+sudo /usr/libexec/podman/quadlet --dryrun
+```

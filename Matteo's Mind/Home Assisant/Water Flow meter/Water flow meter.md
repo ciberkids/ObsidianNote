@@ -1,0 +1,1 @@
+https://community.home-assistant.io/t/using-esphome-to-build-a-water-flow-rate-meter/119380/129?page=7
