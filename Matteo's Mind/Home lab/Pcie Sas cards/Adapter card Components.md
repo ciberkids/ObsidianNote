@@ -2,7 +2,10 @@
 # Adapter sff-8644 - sff-8643
 
 https://www.servershop24.de/supermicro-sas-controller/a-132932/?ReferrerID=7&utm_source=googleproducts&utm_medium=cpc&utm_campaign=ch&currency=CHF&ShipToCountry=4&gad_source=5&gclid=EAIaIQobChMImryN7vfqigMVTGJBAh0G9wQGEAEYASABEgKG8vD_BwE
-![](images/Pasted%20image%2020250110112627.png)![](images/Pasted%20image%2020250110112634.png)
+
+
+![](images/Pasted%20image%2020250110112627.png)
+![](images/Pasted%20image%2020250110112634.png)
  
 
 # Adapter sff-8087 - sff-8088
