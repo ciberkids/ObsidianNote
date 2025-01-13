@@ -8,4 +8,4 @@ https://about.gitea.com/
 
 Brings teams and developers high-efficiency but easy operations from planning to production.
 
-![[Pasted image 20241111101318.png]]
+![](images/Pasted%20image%2020241111101318.png)

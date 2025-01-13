@@ -1,3 +1,3 @@
 https://radxa.com/products/orion/o6#techspec
 
-![[Pasted image 20241220105547.png]]
+![](images/Pasted%20image%2020241220105547.png)

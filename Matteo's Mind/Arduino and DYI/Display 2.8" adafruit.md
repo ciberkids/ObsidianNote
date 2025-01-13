@@ -1,6 +1,6 @@
 https://learn.adafruit.com/adafruit-2-8-tft-touch-shield-v2/stmpe-resistive-pinout
 
-![[Pasted image 20250107165439.png]]
+![](images/Pasted%20image%2020250107165439.png)
 # Pinouts
 
 There are three versions of the shield. One has a capacitive touch, the other two are the older and newer versions with resistive touch. The _TFT display_ and pinouts is the same for both. The microSD card is the same too. The differences come in on the touch screen controller and whether the SPI pins are connected to pins 11-13 or the ICSP header by default.

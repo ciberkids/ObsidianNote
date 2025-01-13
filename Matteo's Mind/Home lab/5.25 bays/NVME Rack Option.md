@@ -6,11 +6,11 @@
 ## bay with oculink
 
 https://de.icydock.com/product_295.html
-![[Pasted image 20250110133355.png]]
+![](images/Pasted%20image%2020250110133355.png)
 
-![[Pasted image 20250110133347.png]]
+![](images/Pasted%20image%2020250110133347.png)
 
-## bay with sff-8643
+### bay with sff-8643
 https://global.icydock.com/product_355.html
 |   |   |   |   |
 |---|---|---|---|
@@ -24,8 +24,8 @@ https://global.icydock.com/product_355.html
 |Net Weight|1334g|1325g|   |
 |Gross Weight|1560.3g|1504.8g|   |
 |Suitable for|**NVMe HBA/RAID adapters  <br>with [Legacy pin-out](https://global.icydock.com/pdf/Pinout_for_MB720M2K-B.pdf)**|**NVMe HBA/RAID adapters  <br>with [SFF-9402 pin-out](https://global.icydock.com/pdf/Pinout_for_MB720_V2.pdf)**|**Tri-mode HBA/RAID adapters  <br>with [SFF-9402 pin-out](https://global.icydock.com/pdf/Pinout_for_MB720_V3.pdf)**|
-![[Pasted image 20250106135513.png]]
-![[Pasted image 20250110151831.png]]
+![](images/Pasted%20image%2020250106135513.png)
+![](images/Pasted%20image%2020250110151831.png)
 
 
 | 4 x MiniSAS HD 4i  <br>(SFF-8643) |
@@ -39,16 +39,16 @@ Cost: 236.70 CHF
 https://www.delock.com/produkte/themen/91_NVMe.html
 https://www.delock.com/produkt/47111/merkmale.html
 
-![[Pasted image 20250106140838.png]]
-![[Pasted image 20250106140858.png]]
+![[../Pcie Sas cards/images/Pasted image 20250106140838.png]]
+![[../Pcie Sas cards/images/Pasted image 20250106140858.png]]
 ## DELOCK 47129 
 
 https://www.delock.com/produkt/47129/merkmale.html
 
 
 https://www.reichelt.com/ch/de/shop/produkt/5_25_wechselrahmen_fuer_8_x_m_2_nvme_ssd_sff-8654-378731?PROVID=2808&gad_source=1&gclid=CjwKCAiAm-67BhBlEiwAEVftNhifQ4unkgNXhFxaMZbuwfNG79LsHN9F8btHZSCR_jOimP8v5wZpXxoC3j8QAvD_BwE&q=%2Fch%2Fde%2F5-25-wechselrahmen-fuer-8-x-m-2-nvme-ssd-sff-8654-delock-47129-p378731.html#open-modal-image-big-slider
-![[Pasted image 20250106135640.png]]
-![[Pasted image 20250106135652.png]]
+![](images/Pasted%20image%2020250106135640.png)
+![](images/Pasted%20image%2020250106135652.png)
 
 
 

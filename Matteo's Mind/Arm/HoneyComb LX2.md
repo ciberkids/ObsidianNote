@@ -1,7 +1,7 @@
 https://shop.solid-run.com/product/SRLX216S00D00GE064H09CH/
 ## Image
 
-![[Pasted image 20240806132227.png]]
+![](images/Pasted%20image%2020240806132227.png)
 
 ## Specs
 

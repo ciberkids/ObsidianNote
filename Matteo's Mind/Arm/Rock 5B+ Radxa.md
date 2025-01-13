@@ -4,8 +4,8 @@ https://radxa.com/products/rock5/5bp/#techspec
 
 ![[Pasted image 20241111095344.png]
 
-![[Pasted image 20241111095614.png]]
-![[Pasted image 20241111095629.png]]
+![](images/Pasted%20image%2020241111095614.png)
+![](images/Pasted%20image%2020241111095629.png)
 ## Tech Specs
 
 - SoC

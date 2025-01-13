@@ -3,4 +3,4 @@ https://circotech.com/rm-2270-2u-rackmount-case-for-dual-mini-itx-motherboard-sy
 
 RM-2270 2U Dual Mini-ITX MB 14" Deep Rackmount Case
 
-![[Pasted image 20250107151312.png]]
+![](images/Pasted%20image%2020250107151312.png)

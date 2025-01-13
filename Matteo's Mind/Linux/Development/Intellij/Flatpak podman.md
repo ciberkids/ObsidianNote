@@ -103,12 +103,12 @@ export JAVA_HOME=/usr/lib/sdk/openjdk21
 #### Gradle inside intellij
 
 we need to configure gradle inside intellij. in order to do so we need to do the following setting inside the `file->settings->Build Execution and tool-> Build tools->gradle`
-![[Pasted image 20241107141140.png]]
+![](images/Pasted%20image%2020241107141140.png)
 
 in addition we need to add the right sdk to the project
 so right click on the project `open module settings`
 
-![[Pasted image 20241107141323.png]]
+![](images/Pasted%20image%2020241107141323.png)
 
 Attention the JDK home is slightly different
 ```bash
@@ -119,7 +119,7 @@ if you have problem with gradle
 remember the matrix
 
 https://docs.gradle.org/8.8-rc-1/userguide/compatibility.html
-![[Pasted image 20241107133414.png]]
+![](images/Pasted%20image%2020241107133414.png)
 
 
 

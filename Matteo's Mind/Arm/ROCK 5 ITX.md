@@ -6,7 +6,7 @@ https://www.aliexpress.com/item/1005006866030181.html
 
 ## Specs
 #### Images
-![[Pasted image 20240806085309.png]]
+![](images/Pasted%20image%2020240806085309.png)
 
 ### Tech Specs
 ## Tech Specs

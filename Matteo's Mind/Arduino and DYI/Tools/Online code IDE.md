@@ -1,4 +1,4 @@
 
 https://codebender.cc/
 
-![[Pasted image 20240806100110.png]]
+![](images/Pasted%20image%2020240806100110.png)

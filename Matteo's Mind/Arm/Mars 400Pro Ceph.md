@@ -4,7 +4,7 @@ https://www.ambedded.com.tw/en/product/ceph-storage-appliance.html
 
 ## Images
 
-![[Pasted image 20240806132536.png]]
+![](images/Pasted%20image%2020240806132536.png)
 ## Specs
 
 ##### Server Platform

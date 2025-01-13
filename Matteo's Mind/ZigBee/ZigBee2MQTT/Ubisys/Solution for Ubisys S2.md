@@ -1,7 +1,7 @@
 
 To unbind the relay from the input the cluster are the 3 and 4, but it possible to do it via interface in zigbee2mqtt
 
-![[Pasted image 20240710003128.png]]
+![](images/Pasted%20image%2020240710003128.png)
 ```
 zigbee2mqtt/bridge/request/device/unbind
 

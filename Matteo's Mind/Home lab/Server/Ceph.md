@@ -3,8 +3,8 @@
 ### MS-01 Work Station
 https://store.minisforum.de/products/ms-01?utm_source=google&utm_medium=cpcg&gad_source=1&gclid=CjwKCAiAm-67BhBlEiwAEVftNurqCH9iiF-MwORuOsE5zlZParDQVjwTLCepK28WXoXmbNiZbCzg_xoCAJUQAvD_BwE
 
-![[Pasted image 20250106144645.png]]
-![[Pasted image 20250106144720.png]]
+![](images/Pasted%20image%2020250106144645.png)
+![](images/Pasted%20image%2020250106144720.png)
 
 
 
