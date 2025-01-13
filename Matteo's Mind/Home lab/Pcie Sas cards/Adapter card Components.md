@@ -6,7 +6,6 @@ https://www.servershop24.de/supermicro-sas-controller/a-132932/?ReferrerID=7&utm
  
 
 # Adapter sff-8087 - sff-8088
-![Pasted image 20250110151601]
 
 ![](images/Pasted%20image%2020250110151547.png)
 ![](images/Pasted%20image%2020250113095750.png)
@@ -29,6 +28,10 @@ CHF16.89
 
 # cable SFF-8611 to SAS SFF-HD 8644 4I
 
-![[images/Pasted image 20250113103349.png]]
+![](images/Pasted%20image%2020250113103349.png)
 
 https://www.ebay.com/itm/195944968032?_trkparms=amclksrc%3DITM%26aid%3D1110013%26algo%3DHOMESPLICE.SIMRXI%26ao%3D1%26asc%3D279298%26meid%3D47ce76acbbcb456aaa6e524246366f40%26pid%3D101196%26rk%3D1%26rkt%3D12%26sd%3D196017033840%26itm%3D195944968032%26pmt%3D1%26noa%3D0%26pg%3D2332490%26algv%3DSimRXIVIWithPreRankerShuffling%26brand%3DUniversal&_trksid=p2332490.c101196.m2219&itmprp=cksum%3A19594496803247ce76acbbcb456aaa6e524246366f40%7Cenc%3AAQAJAAABAPaao3PUc1Vem5pmXbKESdtr0ge3uDc58uFkSVGyB0U0t8q%252Bsx1DVeRo5Ft9v54MyQOa%252F9UuowzdPTOvUzJ8Ugnm6khqX2xkNwftn7vw%252BI1zjF%252Be47b5u2Vr6T9VigBRmS%252FTD8QY14aqrARcGoxNV%252F6pJVvsgWzIQoaLlFQT20KjlLSWp%252BwDKEBcKfZLAVhQWDcjzKX%252FfjVQaalkgdJIojZ2CFrSTs%252BhlLqly13IHYTuGa3Gmz5v0DaZ7jfIQtwhfukyPxKyEWk4bViW3%252BbTGwiwsLxm85%252BiaB1ydQRz8bfji%252FLmZULvfJU4856paazzkZlShyFyokHOikQEXVZmvlY%253D%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01JH5J461WD0APMPAMKTP3DPA4
+
+
+# Sas cable store
+https://store.10gtek.com/sas-cable/c-43?p=4
